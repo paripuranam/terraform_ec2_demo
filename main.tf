@@ -117,6 +117,3 @@ resource "aws_instance" "Demo_Instance" {
   }
 }
 
-resource "" "name" {
-  
-}
